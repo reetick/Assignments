@@ -1,4 +1,4 @@
-## Discription
+## Description
 This portfolio is built with semantic HTML.
 
 
@@ -11,3 +11,4 @@ This portfolio is built with semantic HTML.
 - Add CSS styling and modern design
 - Add project links and demo URLs
 - Include social media links
+
